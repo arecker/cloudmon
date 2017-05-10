@@ -1,0 +1,8 @@
+alexrecker.com:
+  records:
+    - name: test.alexrecker.com
+      type: A
+      content: 8.8.4.4
+    - name: shakespeare.alexrecker.com
+      type: TXT
+      content: Shakespeare, bitch.
